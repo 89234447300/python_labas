@@ -1,9 +1,9 @@
-def min_max(mms: list) -> tuple:
+def min_max(x: list) -> tuple:
 
-    if not mms:
+    if not x:
         raise ValueError
 
-    return (min(mms), max(mms))
+    return (min(x), max(x))
 
 
 test_cases = [
