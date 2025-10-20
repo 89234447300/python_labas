@@ -79,5 +79,5 @@ print(col_sums([[-1, 1], [10, -10]]))
 print(col_sums([[0, 0], [0, 0]]))
 try:
     print(col_sums([[1, 2], [3]]))
-except ValueError as e:
-    print(f"ValueError: {e}")
+except ValueError as i:
+    print(f"ValueError: {i}")
