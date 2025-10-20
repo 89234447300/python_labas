@@ -61,8 +61,8 @@ print(transpose([[1, 2], [3, 4]]))
 print(transpose([]))
 try:
     print(transpose([[1, 2], [3]]))
-except ValueError as i:
-    print(f"ValueError: {i}")
+except ValueError as inv:
+    print(f"ValueError: {inv}")
 
 print("row_sums:")
 print(row_sums([[1, 2, 3], [4, 5, 6]]))
@@ -70,8 +70,8 @@ print(row_sums([[-1, 1], [10, -10]]))
 print(row_sums([[0, 0], [0, 0]]))
 try:
     print(row_sums([[1, 2], [3]]))
-except ValueError as i:
-    print(f"ValueError: {i}")
+except ValueError as inv:
+    print(f"ValueError: {inv}")
 
 print("col_sums:")
 print(col_sums([[1, 2, 3], [4, 5, 6]]))
@@ -79,5 +79,5 @@ print(col_sums([[-1, 1], [10, -10]]))
 print(col_sums([[0, 0], [0, 0]]))
 try:
     print(col_sums([[1, 2], [3]]))
-except ValueError as i:
-    print(f"ValueError: {i}")
+except ValueError as inv:
+    print(f"ValueError: {inv}")
