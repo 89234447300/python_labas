@@ -22,4 +22,3 @@ for i, test_data in enumerate(test_cases, 1):
         print(f"{i}: {test_data} -> {e}")
 
 
-
