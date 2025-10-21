@@ -28,6 +28,10 @@ col_sums
 
 Задание C — tuples.py
 <img width="708" height="925" alt="image" src="https://github.com/user-attachments/assets/9d798bd0-2809-4e18-9d47-e062a929e4bb" />
+<img width="382" height="78" alt="image" src="https://github.com/user-attachments/assets/4dca6072-9723-44f8-8c03-b4d72dc665c7" />
+<img width="697" height="952" alt="image" src="https://github.com/user-attachments/assets/ff32531b-2ee7-4043-a386-66b06d4159ed" />
+
+
 
 
 
