@@ -9,5 +9,7 @@ tokenize
 <img width="782" height="666" alt="image" src="https://github.com/user-attachments/assets/87726fe9-ae65-452e-8d59-0ebf29d8e56b" />
 
 count_freq + top_n
+<img width="411" height="359" alt="image" src="https://github.com/user-attachments/assets/81e02d04-0529-422f-9b2e-a7ba42e73331" />
+<img width="717" height="703" alt="image" src="https://github.com/user-attachments/assets/a24b4a73-1c24-4658-a322-0ea2d074c405" />
 
 
