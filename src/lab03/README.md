@@ -1,3 +1,4 @@
+```
 Задание A — src/lib/text.py
 import re
 def normalize(text: str, *, casefold: bool = True, yo2e: bool = True) -> str:
@@ -28,6 +29,9 @@ def top_n(freq: dict[str, int], n: int = 5) -> list[tuple[str, int]]:
     for neg_count, w in t:
         result.append((w, -neg_count))
     return result[:n]
+```
+
+
 normalize
 <img width="1418" height="707" alt="image" src="https://github.com/user-attachments/assets/fad3a665-5250-4afa-b064-63da2e672683" />
 
