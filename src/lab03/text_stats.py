@@ -30,7 +30,6 @@ if __name__ == "__main__":
     test_text = "Привет, мир! Привет!!!"
 
     print('$ echo "Привет, мир! Привет!!!" | python src/text_stats.py')
-
     normalized = normalize(test_text)
     tokens = tokenize(normalized)
     freq = count_freq(tokens)
