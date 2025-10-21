@@ -8,3 +8,9 @@ unique_sorted
 <img width="488" height="721" alt="image" src="https://github.com/user-attachments/assets/f92e72c6-8651-4f2f-b863-fd66c9df1a69" />
 
 flatten
+<img width="717" height="779" alt="image" src="https://github.com/user-attachments/assets/2c1275b1-f95e-4f21-a99e-d1882156422e" />
+<img width="834" height="961" alt="image" src="https://github.com/user-attachments/assets/22095173-7d85-440c-b1fc-646496b2d7d6" />
+
+
+Задание B — matrix.py
+
