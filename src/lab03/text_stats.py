@@ -3,7 +3,7 @@ import sys
 
 
 def main():
-    text = sys.stdin.buffer.read().decode('utf-8')
+    text = sys.stdin.read()
     if not text.strip():
         print("Нет входных данных")
         return
@@ -27,4 +27,20 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    test_text = "Привет, мир! Привет!!!"
+
+    print("Тестирование:")
+    print(f"'{test_text}'")
+
+    normalized = normalize(test_text)
+    tokens = tokenize(normalized)
+    freq = count_freq(tokens)
+    top = top_n(freq, 5)
+
+    print(f"Всего слов: {len(tokens)}")
+    print(f"Уникальных слов: {len(freq)}")
+    print("Топ-5:")
+    for word, count in top:
+        print(f"{word}: {count}")
+
+
