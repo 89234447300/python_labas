@@ -83,5 +83,6 @@ if __name__ == "__main__":
     print("Топ-5:")
     for word, count in top:
         print(f"{word}:{count}")
+```
 <img width="757" height="760" alt="image" src="https://github.com/user-attachments/assets/f6043e4d-964d-4707-9b94-d53dd2197549" />
 
