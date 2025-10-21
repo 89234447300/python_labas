@@ -36,5 +36,5 @@ error_tests = [
 for test in error_tests:
     try:
         print(format_record(test))
-    except ValueError as e:
-        print(f"ValueError: {e}")
+    except ValueError as inv:
+        print(f"ValueError: {inv}")
