@@ -1,14 +1,41 @@
-#задание 1
-<img width="1920" height="1030" alt="img01" src="https://github.com/user-attachments/assets/29bfdd0d-0ab4-4e5e-9758-3920f317cc50" />
+Задание 1 — arrays.py
+min_max
+<img width="615" height="588" alt="image" src="https://github.com/user-attachments/assets/742c6475-83ca-413f-9266-f5fc794411d8" />
+<img width="529" height="524" alt="image" src="https://github.com/user-attachments/assets/5e6a3ea9-003b-4a4c-bd9b-35850bce4c59" />
 
-#задание 2
-<img width="1920" height="1030" alt="img02" src="https://github.com/user-attachments/assets/13a88d34-4568-45ae-8638-71384d2798a9" />
+unique_sorted
+<img width="481" height="435" alt="image" src="https://github.com/user-attachments/assets/8a9d8d44-bf9b-4f2d-b302-f0ca84ef0905" />
+<img width="488" height="721" alt="image" src="https://github.com/user-attachments/assets/f92e72c6-8651-4f2f-b863-fd66c9df1a69" />
 
-#задание 3
-<img width="1920" height="1030" alt="img03" src="https://github.com/user-attachments/assets/881da6a6-2c49-4f0f-80bf-c20c19d909b8" />
+flatten
+<img width="717" height="779" alt="image" src="https://github.com/user-attachments/assets/2c1275b1-f95e-4f21-a99e-d1882156422e" />
+<img width="834" height="961" alt="image" src="https://github.com/user-attachments/assets/22095173-7d85-440c-b1fc-646496b2d7d6" />
 
-#задание 4
-<img width="1920" height="1030" alt="img04" src="https://github.com/user-attachments/assets/fe73003b-2339-43fb-81d9-066586fa302f" />
 
-#задание 5
-<img width="1920" height="1030" alt="img05" src="https://github.com/user-attachments/assets/8fd9699b-1085-4da4-b87b-736a1c7915ec" />
+Задание B — matrix.py
+transpose
+<img width="481" height="425" alt="image" src="https://github.com/user-attachments/assets/060ed676-c363-4488-90f8-06bd9a3437f8" />
+
+row_sums
+<img width="481" height="438" alt="image" src="https://github.com/user-attachments/assets/f3593836-06d2-4a7a-b00c-a4961393580b" />
+
+col_sums
+<img width="515" height="417" alt="image" src="https://github.com/user-attachments/assets/5e1a5dfa-a1aa-44eb-b818-5dd95e86e5cc" />
+
+Тесты:
+<img width="490" height="685" alt="image" src="https://github.com/user-attachments/assets/98d89739-8ad7-406d-b7a8-e507079bb782" />
+
+
+Задание C — tuples.py
+<img width="708" height="925" alt="image" src="https://github.com/user-attachments/assets/9d798bd0-2809-4e18-9d47-e062a929e4bb" />
+<img width="382" height="78" alt="image" src="https://github.com/user-attachments/assets/4dca6072-9723-44f8-8c03-b4d72dc665c7" />
+<img width="697" height="952" alt="image" src="https://github.com/user-attachments/assets/ff32531b-2ee7-4043-a386-66b06d4159ed" />
+
+
+
+
+
+
+
+
+
