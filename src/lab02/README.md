@@ -27,6 +27,9 @@ col_sums
 
 
 Задание C — tuples.py
+<img width="708" height="925" alt="image" src="https://github.com/user-attachments/assets/9d798bd0-2809-4e18-9d47-e062a929e4bb" />
+
+
 
 
 
