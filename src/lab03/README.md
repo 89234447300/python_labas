@@ -1,5 +1,5 @@
 Задание A — src/lib/text.py
-
+import re
 def normalize(text: str, *, casefold: bool = True, yo2e: bool = True) -> str:
     text = text.casefold()
     if yo2e:
@@ -8,19 +8,10 @@ def normalize(text: str, *, casefold: bool = True, yo2e: bool = True) -> str:
     text = ' '.join(text.split())
     text = text.strip()
     return text
-# print(normalize("ПрИвЕт\nМИр\t"))
-# print(normalize("ёжик, Ёлка"))
-# print(normalize("Hello\r\nWorld"))
-# print(normalize("  двойные   пробелы  "))
 
-import re
+    
 def tokenize(text: str) -> list[str]:
     return re.findall(r'\w+(?:-\w+)*', text)
-# print(tokenize("привет мир"))
-# print(tokenize("hello,world!!!"))
-# print(tokenize("по-настоящему круто"))
-# print(tokenize("2025 год"))
-# print(tokenize("emoji 😀 не слово"))
 
 def count_freq(tokens: list[str]) -> dict[str, int]:
     c = {}
@@ -37,12 +28,6 @@ def top_n(freq: dict[str, int], n: int = 5) -> list[tuple[str, int]]:
     for neg_count, w in t:
         result.append((w, -neg_count))
     return result[:n]
-tok = ["a", "b", "a", "c", "b", "a"]
-freq = count_freq(tok)
-# print(top_n(freq, n=2))
-tok_2 = ["bb", "aa", "bb", "aa", "cc"]
-freq_2 = count_freq(tok_2)
-# print(top_n(freq_2, n=2))
 normalize
 <img width="1418" height="707" alt="image" src="https://github.com/user-attachments/assets/fad3a665-5250-4afa-b064-63da2e672683" />
 
