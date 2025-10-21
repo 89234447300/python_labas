@@ -13,4 +13,8 @@ flatten
 
 
 Задание B — matrix.py
+transpose
+<img width="481" height="425" alt="image" src="https://github.com/user-attachments/assets/060ed676-c363-4488-90f8-06bd9a3437f8" />
+
+row_sums
 
