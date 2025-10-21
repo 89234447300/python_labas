@@ -20,5 +20,9 @@ row_sums
 <img width="481" height="438" alt="image" src="https://github.com/user-attachments/assets/f3593836-06d2-4a7a-b00c-a4961393580b" />
 
 col_sums
+<img width="515" height="417" alt="image" src="https://github.com/user-attachments/assets/5e1a5dfa-a1aa-44eb-b818-5dd95e86e5cc" />
+
+Тесты:
+
 
 
