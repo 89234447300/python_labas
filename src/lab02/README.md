@@ -23,6 +23,12 @@ col_sums
 <img width="515" height="417" alt="image" src="https://github.com/user-attachments/assets/5e1a5dfa-a1aa-44eb-b818-5dd95e86e5cc" />
 
 Тесты:
+<img width="490" height="685" alt="image" src="https://github.com/user-attachments/assets/98d89739-8ad7-406d-b7a8-e507079bb782" />
+
+
+Задание C — tuples.py
+
+
 
 
 
