@@ -1,5 +1,4 @@
 ```
-Задание A — src/lib/text.py
 import re
 def normalize(text: str, *, casefold: bool = True, yo2e: bool = True) -> str:
     text = text.casefold()
