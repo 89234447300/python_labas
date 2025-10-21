@@ -1,4 +1,4 @@
-from src.lab03.text import normalize, tokenize, count_freq, top_n
+from src.lab03.lib.text import normalize, tokenize, count_freq, top_n
 import sys
 
 
