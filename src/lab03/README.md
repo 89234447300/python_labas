@@ -12,6 +12,7 @@ count_freq + top_n
 <img width="411" height="359" alt="image" src="https://github.com/user-attachments/assets/81e02d04-0529-422f-9b2e-a7ba42e73331" />
 <img width="726" height="860" alt="image" src="https://github.com/user-attachments/assets/f591c63a-fcce-4f15-86ab-552d43d6dbb3" />
 
+<img width="664" height="974" alt="image" src="https://github.com/user-attachments/assets/1607a23d-c4ca-4e33-8bf1-5ee2703faed9" />
 
 
 Задание B — src/text_stats.py (скрипт со stdin)
