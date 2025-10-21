@@ -23,7 +23,6 @@ def main():
     for word, count in top_words:
         print(f"{word}: {count}")
 
-
 if __name__ == "__main__":
     test_text = "Привет, мир! Привет!!!"
 
@@ -32,7 +31,6 @@ if __name__ == "__main__":
     tokens = tokenize(normalized)
     freq = count_freq(tokens)
     top = top_n(freq, 5)
-
     print(f"Всего слов: {len(tokens)}")
     print(f"Уникальных слов: {len(freq)}")
     print("Топ-5:")
