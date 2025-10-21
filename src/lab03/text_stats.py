@@ -29,8 +29,7 @@ def main():
 if __name__ == "__main__":
     test_text = "Привет, мир! Привет!!!"
 
-    print("Тестирование:")
-    print(f"'{test_text}'")
+    print('$ echo "Привет, мир! Привет!!!" | python src/text_stats.py')
 
     normalized = normalize(test_text)
     tokens = tokenize(normalized)
@@ -41,6 +40,6 @@ if __name__ == "__main__":
     print(f"Уникальных слов: {len(freq)}")
     print("Топ-5:")
     for word, count in top:
-        print(f"{word}: {count}")
+        print(f"{word}:{count}")
 
 
