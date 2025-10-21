@@ -10,6 +10,7 @@ tokenize
 
 count_freq + top_n
 <img width="411" height="359" alt="image" src="https://github.com/user-attachments/assets/81e02d04-0529-422f-9b2e-a7ba42e73331" />
-<img width="717" height="703" alt="image" src="https://github.com/user-attachments/assets/a24b4a73-1c24-4658-a322-0ea2d074c405" />
+<img width="726" height="860" alt="image" src="https://github.com/user-attachments/assets/f591c63a-fcce-4f15-86ab-552d43d6dbb3" />
+
 
 
