@@ -56,5 +56,13 @@ if __name__ == "__main__":
         print(f"Ошибка в write_csv: {e}")
     print("Тестирование завершено")
 ```
+<img width="842" height="83" alt="image" src="https://github.com/user-attachments/assets/91c4d6cc-11e3-449d-9177-2724eb6ed746" />
+
+<img width="814" height="103" alt="image" src="https://github.com/user-attachments/assets/24764e7e-6127-4c78-bd99-0de11f1f77b6" />
+
+Задание B — скрипт src/lab04/text_report.py
+
+
+
 
 
