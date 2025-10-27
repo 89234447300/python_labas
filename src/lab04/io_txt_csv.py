@@ -52,5 +52,5 @@ if __name__ == "__main__":
         write_csv([("word", "count"), ("test", 3)], csv_path)
         print("write_csv работает:")
     except Exception as e:
-        print(f"✗ Ошибка в write_csv: {e}")
+        print(f"Ошибка в write_csv: {e}")
     print("Тестирование завершено")
